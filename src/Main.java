@@ -65,7 +65,6 @@ public class Main {
         staff = staff + 94;
         workingDay = staff * 8;
         System.out.println("Если в компании работает " + staff + " человека, то всего " + workingDay + " часа работы может быть поделено между сотрудниками");
-        System.out.println(" ");
-    }
+        }
 }
 
